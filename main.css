@@ -19,11 +19,6 @@
     float: left;
   }
   
-  a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-  }
 
 .footer{
     background-color: rgb(48, 47, 47)
